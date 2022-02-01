@@ -44,10 +44,11 @@ class MainActivity : AppCompatActivity() {
                 val endHasBeenReached = lastVisible + 5 >= totalItemCount
 
                 if (totalItemCount > 0 && endHasBeenReached) {
+
+                    //shows message when we reach the last element
                     Snackbar.make(recyclerView,"End",Snackbar.LENGTH_SHORT).show()
 
-
-
+                    //loads extra restaurants
                     restAdapter.addTeachers(addRestaurants())
                 }
             }
