@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Examination2/app/src/main/res/layout-land/activity_main.xml" value="0.35315315315315315" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Examination2/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Examination2/app/src/main/res/layout/item_restaurant.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
